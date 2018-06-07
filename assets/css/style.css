@@ -1,0 +1,22 @@
+
+
+
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 60px;
+    color: #12827a;
+    text-align: center;
+    border: dotted 2px #12827a;
+    margin-left: 200px;
+    margin-right: 200px;
+    }
+
+#game {
+    margin-left: 200px;
+}
+
+p {
+    color: darkcyan;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 25px;
+}
